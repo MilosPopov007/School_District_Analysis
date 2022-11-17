@@ -1,5 +1,6 @@
 # School_District_Analysis
- The Analysis presents  aggregated data and showcase trends in school performance using Pandas software library  and Jupyter Notebook ( web-based interactive computing platform).
+ The Analysis presents  aggregated data and showcase trends in school performance using Pandas software library  and Jupyter Notebook ( web-based interactive computing platform). 
+[Jupyter Notebook](https://github.com/MilosPopov007/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code.ipynb)
 ## Analysis steps 
 Analyzing information from a variety of sources and using the Pandas read_csv function and the os module I created a DataFrame called student_df.
 My main purpose was to analyze data on student funding and students' standardized test scores (student's math and reading scores) as well as various information on the schools they attend.
