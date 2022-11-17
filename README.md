@@ -11,4 +11,4 @@ Analysis steps :
 *   Make Comparisons - Compares district vs. charter schools for budget, size, and scores using "groupby", "count" and "mean" functions
 ### Results
 Students overall preformed better on their reading test than on the mathematics test, this includes both Charter and Public schools. Student in Charter schools had better results on their mathematical tests vs. students in Public schools. School budget for Public schools was slightly higher than in the Charter schools.
-We may conclude that students in Charter schools performed better on their tests than students in Public schools, but in support of this analysis, it is suggested that we consider an additional analysis that will include individual schools and the number of students for a more comprehensive analysis.
+We may conclude that students in Charter schools performed better on their tests than students in Public schools, but in support of this analysis, it is suggested that we consider an additional analysis that will include individual schools with the number of students for a more comprehensive analysis.
